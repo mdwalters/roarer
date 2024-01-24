@@ -3,6 +3,7 @@ import { es } from "./es";
 import { de } from "./de";
 import { hu } from "./hu";
 import { tok } from "./tok";
+import { eo } from "./eo";
 
 export const languages = {
   en,
@@ -10,4 +11,5 @@ export const languages = {
   de,
   hu,
   tok,
+  eo,
 };
