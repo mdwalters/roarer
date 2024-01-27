@@ -40,6 +40,13 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/155268413?v=4",
       "profile": "https://scratch.mit.edu/users/Supernoodles99",
       "contributions": ["design"]
+    },
+    {
+      "login": "mdwalters",
+      "name": "Max Walters",
+      "avatar_url": "https://avatars.githubusercontent.com/u/67456566?v=4",
+      "profile": "https://github.com/mdwalters",
+      "contributions": ["translation"]
     }
   ]
 }
